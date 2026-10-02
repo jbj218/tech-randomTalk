@@ -1,0 +1,19 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+~$*
+
+# 敏感文件（防止误传密钥与环境配置）
+*.pem
+*.key
+.env
